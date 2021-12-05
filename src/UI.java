@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class UI {
     public BTree bTree;
     /**
-     * Read btree from the file "db.db"
+     * Read btree from the file "data.txt"
      * check if the btree is built
      * if it is not built, then insert/delete/search etc. commands cannot be executed
      * if it is built, then the insert/delete/search etc. commands can be executed.
